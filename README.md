@@ -29,7 +29,8 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 <img src="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPmL7r-7XeAhWHD8AKHTogArsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.theverge.com%2F2015%2F9%2F1%2F9239769%2Fnew-google-logo-announced&psig=AOvVaw0lni9X_QXc-NFjL53AiCRG&ust=1541256984536692" alt="a google logo">
 <p>I have attempted to put in photos but I think github has a block on them possibly, which is understandable, therefore I will now try links<p>
 	<a href="http://killojoulesstyle.simplesite.com/440660702" target="_blank">MyWebsite</a>
-<p>the link to MyWebsite appears to be working, however it may not open a blank tab (new tab) like prompted to do so. The link to the bottom doesn't seem to be working, I presume this is a block to internal links, but i am not sure. I have attempted to simplify the code but it seemed to make matters worse</p>
+<p>the link to MyWebsite appears to be working, however it may not open a blank tab (new tab) like prompted to do so. The link to the bottom doesn't seem to be working, I presume this is a block to internal links, but i am not sure. I have attempted to simplify the anchor elements code but it seemed to make matters worse</p>
 
 
 <footer id="footer"> <h1>This is the bottom of the page</h1> <!--of the code, no code to be written beyond this point--></footer>
+
