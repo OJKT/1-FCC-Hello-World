@@ -66,12 +66,12 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<li><input id="KilloJoules" type="radio" name="OJKT-KilloJoules">
 		<label for="KilloJoules">KilloJoules</label></li>
 	</ul>
-
+</div>
 	<!--
 	This only apears after i have saved the work and want to reveiw is, i do not wish to refresh the page incase i lose some work. alright, so radio buttons don't work, lets try a different type, check boxes
 	-->
 
-	<h4>If you keep tick theese three boxes keep reading my article.</h4>
+<h4>If you keep tick theese three boxes keep reading my article.</h4>
 	<ol>
 	<li><label for="You've Coded Before"><input id="You've Coded Before" type="checkbox" name="personality"> checked> You've Coded Before</label></li>
 	<li><label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" 		type="checkbox" name="personality"> checked> You think my cheat notes are realativly good</label></li>
@@ -80,7 +80,7 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<!--The above checkboxes dont appear but i must try them on another software at some point. any suggestions-->
 	<p></p>
 	<p>Seems like you've already checked them :)</p>
-</div>
+
 <!--so yeah, i tried listing the form labels and checkboxes in both orderd and unorderd lists.... it worked-->
 
 
