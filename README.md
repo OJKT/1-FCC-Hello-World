@@ -63,15 +63,15 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<label for="OJKT">OJKT</label>
 <input id="KilloJoules" type="radio" name="OJKT-KilloJoules">
 	<label for="KilloJoules">KilloJoules</label>
+		
 <!--
 This only apears after i have saved the work and want to reveiw is, i do not wish to refresh the page incase i lose some work. alright, so radio buttons don't work, lets try a different type, check boxes
 -->
-<p>If you keep tick theese three boxes keep reading my article.</p>
-<label for="You've Coded Before"><input id="You've Coded Before" type="checkbox" name="personality"> checked> You've Coded Before</label>
 		
-<label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" type="checkbox" name="personality"> checked> You think my cheat notes are realativly good</label>
-
-<label for="Your Gullable"><input id="Your Gullable" type="checkbox" name="personality"> checked> Your Gullable</label>
+<p>If you keep tick theese three boxes keep reading my article.</p>
+	<label for="You've Coded Before"><input id="You've Coded Before" type="checkbox" name="personality"> checked> You've Coded Before</label>
+	<label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" type="checkbox" name="personality"> checked> You think my cheat notes are realativly good</label>
+	<label for="Your Gullable"><input id="Your Gullable" type="checkbox" name="personality"> checked> Your Gullable</label>
 <!--The above checkboxes dont appear but i must try them on another software at some point. any suggestions-->
 
 <p>seems like you've already checked them</p>
