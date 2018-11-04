@@ -52,10 +52,14 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<li>Not enough time to myself... </li>
 	<ol>
 		<main>
-<p>Comment if you have any other suggestions below</p>
+			
+<p>
+	Comment if you have any other suggestions below
+</p>
 <form action="Submit Info"/>
 <input type="text" placeholder="Comment Here" required/>
 <button type="submit">Submit</button>
+</form>
 <!--Why this doesn't work i dont know, but there maybe more code i have missed to acheive this comment box-->
 		</main>
 <div>
