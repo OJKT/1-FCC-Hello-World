@@ -58,12 +58,12 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 <button type="submit">Submit</button>
 <!--Why this doesn't work i dont know, but there maybe more code i have missed to acheive this comment box-->
 		</main>
-		<h1>Question: vote for your faveorite one</h1>
-<input id="indoor" type="radio" name="indoor-outdoor">
-	<label for="indoor">Indoor</label>
-<input id="outdoor" type="radio" name="indoor-outdoor">
-	<label for="outdoor">Outdoor</label>
-<!--none of the above is apearing to reload. maybe there is a limit to this scripts length ?-->
+		<h4>Question: Vote for your faveorite Name</h4>
+<input id="OJKT" type="radio" name="OJKT-KilloJoules">
+	<label for="OJKT">OJKT</label>
+<input id="KilloJoules" type="radio" name="OJKT-KilloJoules">
+	<label for="KilloJoules">KilloJoules</label>
+<!--This only apears after i have saved the work and want to reveiw is, i do not wish to refresh the page incase i lose some work-->
 
 
 
