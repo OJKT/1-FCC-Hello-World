@@ -71,8 +71,7 @@ This only apears after i have saved the work and want to reveiw is, i do not wis
 		
 <label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" type="checkbox" name="personality"> You think my cheat notes are realativly good</label>
 
-<label for=""><input id="Your Gullable" type="checkbox" name"personality"> Your Gullable</label.
-
+<label for="Your Gullable"><input id="Your Gullable" type="checkbox" name="personality"> Your Gullable</label.
 
 <footer id="footer"> <h1>This is the bottom of the page</h1> <!--of the code, no code to be written beyond this point--></footer>
 
