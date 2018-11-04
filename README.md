@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>OJKT's World of Code</title>
-	</head>
+<head>
+	<title><h1>#OJKT's World of Code#</h1></title>
+</head>
+	<p></p>
 <a href="#footer">Jump to Bottom</a>
+<body>
 <!--
 <p>to make things faster to edit, I am going to add a jump to bottom link at the top of the code text. 
 Just another repository, to share with friends and collaborators intrested </p>
@@ -11,6 +13,7 @@ Just another repository, to share with friends and collaborators intrested </p>
 <p>CTRL slash / allows me to make this bit un-hidden and hide with as seen as a web developer and not a net browser.
 I'm going to attemp to create a NET Bot and other material on my acount... and use it as notes and material for future projects I do to refer back onto
 -->
+	</body>
 <h1>OJKT WELCOMES YOU</h1> 
 <h2>TO HIS VERY OWN CHEAT NOTES</h2>
 <h3>HIS THINKING PROCESS EXPLAINED</h3>
