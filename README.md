@@ -52,9 +52,9 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<li>Not enough time to myself... </li>
 	<ol>
 		<main>
-			
+			<p></P>
 <p>
-	Comment if you have any other suggestions below
+	Comment if you have any other suggestions below,
 </p>
 <form action="Submit Info"/>
 <input type="text" placeholder="Comment Here" required/>
