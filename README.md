@@ -1,4 +1,8 @@
-# hello-world
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>OJKT's World of Code</title>
+	</head>
 <a href="#footer">Jump to Bottom</a>
 <!--
 <p>to make things faster to edit, I am going to add a jump to bottom link at the top of the code text. 
@@ -91,4 +95,4 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 
 
 <footer id="footer"> <h1>This is the bottom of the page</h1> <!--of the code, no code to be written beyond this point--></footer>
-
+</html>
