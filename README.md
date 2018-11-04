@@ -59,7 +59,7 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 <!--Why this doesn't work i dont know, but there maybe more code i have missed to acheive this comment box-->
 		</main>
 		<h4>Question: Vote for your faveorite Name</h4>
-<input id="OJKT" type="radio" name="OJKT-KilloJoules">
+<input id="OJKT" type="radio" name="OJKT-KilloJoules"> checked>
 	<label for="OJKT">OJKT</label>
 <input id="KilloJoules" type="radio" name="OJKT-KilloJoules">
 	<label for="KilloJoules">KilloJoules</label>
@@ -67,11 +67,16 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 This only apears after i have saved the work and want to reveiw is, i do not wish to refresh the page incase i lose some work. alright, so radio buttons don't work, lets try a different type, check boxes
 -->
 <p>If you keep tick theese three boxes keep reading my article.</p>
-<label for="You've Coded Before"><input id="You've Coded Before" type="checkbox" name="personality"> You've Coded Before</label>
+<label for="You've Coded Before"><input id="You've Coded Before" type="checkbox" name="personality"> checked> You've Coded Before</label>
 		
-<label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" type="checkbox" name="personality"> You think my cheat notes are realativly good</label>
+<label for="You think my cheat notes are realativly good"><input id="You think my cheat notes are realativly good" type="checkbox" name="personality"> checked> You think my cheat notes are realativly good</label>
 
-<label for="Your Gullable"><input id="Your Gullable" type="checkbox" name="personality"> Your Gullable</label.
+<label for="Your Gullable"><input id="Your Gullable" type="checkbox" name="personality"> checked> Your Gullable</label>
+<!--The above checkboxes dont appear but i must try them on another software at some point. any suggestions-->
+
+<p>seems like you've already checked them</p>
+
+
 
 <footer id="footer"> <h1>This is the bottom of the page</h1> <!--of the code, no code to be written beyond this point--></footer>
 
