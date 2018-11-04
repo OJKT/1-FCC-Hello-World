@@ -51,8 +51,21 @@ above i have attempted to put in a photo relevant to me, im going to try again w
 	<li>Too many Unfinished Projects !</li>
 	<li>Not enough time to myself... </li>
 	<ol>
+		<main>
 <p>Comment if you have any other suggestions below</p>
-<input type="text">
-		
+<form action="Submit Info"/>
+<input type="text" placeholder="Comment Here" required/>
+<button type="submit">Submit</button>
+<!--Why this doesn't work i dont know, but there maybe more code i have missed to acheive this comment box-->
+		</main>
+		<h1>Question: vote for your faveorite one</h1>
+<input id="indoor" type="radio" name="indoor-outdoor">
+	<label for="indoor">Indoor</label>
+<input id="outdoor" type="radio" name="indoor-outdoor">
+	<label for="outdoor">Outdoor</label>
+<!--none of the above is apearing to reload. maybe there is a limit to this scripts length ?-->
+
+
+
 <footer id="footer"> <h1>This is the bottom of the page</h1> <!--of the code, no code to be written beyond this point--></footer>
 
